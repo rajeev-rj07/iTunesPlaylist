@@ -29,14 +29,6 @@ struct PlaylistListContextView: View {
             }
             .padding(10)
             Spacer()
-            Button {
-                print("three dot tapped")
-            }label: {
-                AppSFImageButton(imageName: "ellipsis")
-                    .frame(width: 40, height: 40)
-                    .rotationEffect(.degrees(90))
-            }
-            .buttonStyle(PlainButtonStyle())
         }
     }
 }
