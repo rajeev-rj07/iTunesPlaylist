@@ -1,5 +1,5 @@
 Fetures:
-1) Creates and saved song playlists
+1) Creates and saves song playlists
 2) Every playlist supports adding unlimited songs
 3) Search on "iTunes" in built-in search feature to add any song you want to in the playlist. It has pagination as well to continuously load songs from "iTunes" with the searched keyword.
 4) Two types of layouts of the saved playlist listing. One is list and other one is sections
